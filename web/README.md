@@ -11,7 +11,7 @@
 	form.css
 	validate.js
 	
-	!(https://github.com/Shaubs/web-react/blob/master/web/form.PNG)
+	![](https://github.com/Shaubs/web-react/blob/master/web/form.PNG)
 	
 # web ---> src ---> storing_data
 
